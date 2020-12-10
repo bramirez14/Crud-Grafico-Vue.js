@@ -1,0 +1,30 @@
+[{
+    "nombre": "CocaCola",
+    "clientes": 20,
+    "satisfaccion": 75.0
+    },
+    {
+    "nombre": "Pepsi",
+    "clientes": 32,
+    "satisfaccion": 65.0
+    },
+    {
+    "nombre": "Fanta",
+    "clientes": 53,
+    "satisfaccion": 35.0
+    },
+    {
+    "nombre": "7up",
+    "clientes": 33,
+    "satisfaccion": 55.0
+    },
+    {
+    "nombre": "Manaos",
+    "clientes": 2,
+    "satisfaccion": 10.0
+    },
+    {
+    "nombre": "Manaos Uva",
+    "clientes": 0,
+    "satisfaccion": 0.0
+    }]
