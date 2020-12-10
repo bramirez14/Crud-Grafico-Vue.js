@@ -9,14 +9,11 @@
   },
   "dependencies": {
     "@vue/devtools": "^5.3.3",
-    "apexcharts": "^3.22.3",
     "axios": "^0.21.0",
     "buefy": "^0.9.4",
-    "chart.js": "^2.9.4",
     "core-js": "^3.6.5",
     "sweetalert2": "^10.12.0",
     "vue": "^2.6.11",
-    "vue-chartjs": "^3.5.1",
     "vue-chartkick": "^0.6.1",
     "vue-router": "^3.4.9"
   },
